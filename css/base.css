@@ -1,0 +1,35 @@
+/* http://paulirish.com/2012/box-sizing-border-box-ftw/ */
+*{
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+a{
+  color: inherit;
+  text-decoration: inherit;
+}
+img{
+  border: 0;
+}
+sup{
+  line-height: 0;
+}
+
+/* http://www.peachpit.com/articles/article.aspx?p=1569921&seqNum=4 */
+.clearfix:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/?utm_source=html5weekly&utm_medium=email */
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
