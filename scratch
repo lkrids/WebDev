@@ -1,0 +1,2 @@
+-- get random hex colors (example 'b4f2a3') in js
+var n = ((Math.random()*(parseInt('ffffff', 16)+1))|0).toString(16);
