@@ -4,6 +4,9 @@ https://github.com/scottjehl/iOS-Orientationchange-Fix
 Testing:
 http://code.google.com/p/qrbookmarklet/
 
+Browser Specific Info:
+http://peter.sh/experiments/vendor-prefixed-css-property-overview/
+
 General Info:
 https://developer.mozilla.org/en-US/
 http://caniuse.com/
