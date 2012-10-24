@@ -1,0 +1,8 @@
+Javascript:
+https://github.com/scottjehl/iOS-Orientationchange-Fix
+
+General Info:
+https://developer.mozilla.org/en-US/
+http://caniuse.com/
+http://www.alistapart.com/
+http://responsive.rga.com/
