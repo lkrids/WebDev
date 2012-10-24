@@ -1,6 +1,9 @@
 Javascript:
 https://github.com/scottjehl/iOS-Orientationchange-Fix
 
+Testing:
+http://code.google.com/p/qrbookmarklet/
+
 General Info:
 https://developer.mozilla.org/en-US/
 http://caniuse.com/
