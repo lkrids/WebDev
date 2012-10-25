@@ -10,6 +10,9 @@ http://www.charlesproxy.com/
 http://imageoptim.com/
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
+CSS:
+https://github.com/stubbornella/csslint/wiki/Rules
+
 General Info:
 https://developer.mozilla.org/en-US/
 http://caniuse.com/
