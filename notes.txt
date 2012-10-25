@@ -12,6 +12,7 @@ http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
 CSS:
 https://github.com/stubbornella/csslint/wiki/Rules
+http://css-tricks.com/centering-in-the-unknown/
 
 General Info:
 https://developer.mozilla.org/en-US/
