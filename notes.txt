@@ -2,20 +2,26 @@ Polyfills:
 https://github.com/scottjehl/iOS-Orientationchange-Fix
 https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
 
+
 Testing:
 http://code.google.com/p/qrbookmarklet/
+
 
 Tools:
 http://www.charlesproxy.com/
 http://imageoptim.com/
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
+
 CSS:
 https://github.com/stubbornella/csslint/wiki/Rules
 http://css-tricks.com/centering-in-the-unknown/
 
+
 General Info:
-https://developer.mozilla.org/en-US/
 http://caniuse.com/
 http://www.alistapart.com/
 http://responsive.rga.com/
+
+http://w3fools.com/
+https://developer.mozilla.org/en-US/
