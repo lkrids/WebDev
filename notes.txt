@@ -5,6 +5,7 @@ https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
 
 Testing:
 http://code.google.com/p/qrbookmarklet/
+http://html.adobe.com/edge/inspect/
 
 
 Tools:
